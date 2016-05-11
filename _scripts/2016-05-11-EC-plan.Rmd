@@ -1,13 +1,15 @@
 ---
 layout: post
-title: Tentative EC 2016 Game Plan V2
+title: Tentative EC 2016 Game Plan
 author: "Eric Sodomka"
 date: "May 5, 2016"
 output: 
   html_document
 ---
 
-(Test.) My goal is to read/summarize every EC paper by the time of the conference.
+(NOTE: If you have stumbled upon this post, you're reading a rough draft that I'm playing around with for setting up this blog. Everything here is subject to change. Continue reading at your own peril.)
+
+My goal is to read/summarize every EC paper by the time of the conference.
 
 
 ```{r echo = FALSE}
