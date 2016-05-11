@@ -19,18 +19,18 @@ avatar: https://raw.githubusercontent.com/sodomka/jekyll-now/master/images/erics
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: eric.sodomka@gmail.com
+  facebook: sodomka
   flickr:
   github: sodomka/sodomka.github.io
   instagram:
-  linkedin:
+  linkedin: eric-sodomka-82806220
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: yesplease # just type anything here for a working RSS icon
   twitter: esodomka
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  googleplus: 100226484582975000711 # anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
@@ -38,7 +38,7 @@ footer-links:
 disqus: ericsodomka
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-77622304-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
