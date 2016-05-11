@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-The purpose of this blog is to summarize and occasionally deep dive into recent papers in the field of economics and computation. Classic papers are also covered when they contain important supplementary material. If we're lucky, we'll get feedback from authors and other domain experts to clarify any misunderstandings in my posts, provide additional context, and discuss promising directions for future work. I'll typically look at papers from EC, WWW, WINE, AAAI, AAMAS, NIPS, and other similar workshops, conferences, and journals. 
+The purpose of this blog is to provide summaries and occasional deep dives into recent papers in economics and computation. Classic papers are also covered when they contain important supplementary material. If we're lucky, we'll get feedback from authors and other domain experts to clarify any misunderstandings in my posts, provide additional context, and discuss promising directions for future work. I'll typically look at papers from EC, WWW, WINE, AAAI, AAMAS, NIPS, and other similar workshops, conferences, and journals. 
 
 <!---
 My main motivation for creating this blog is to have a forcing function to keep me up to date on the literature. I hope that the process of explaining others' work gives me a better understanding of their research, and that documenting it here will allow me to more quickly recall technical details months down the road. 
