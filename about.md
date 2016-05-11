@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm interested in problems at the intersection of game theory / mechanism design and artificial intelligence.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[eric.sodomka@gmail.com](mailto:eric.sodomka@gmail.com)
