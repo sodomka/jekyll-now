@@ -7,7 +7,7 @@ output:
   html_document
 ---
 
-My plan is to read/summarize every EC paper by the time of the conference.
+My goal is to read/summarize every EC paper by the time of the conference.
 
 
 ```{r echo = FALSE}
