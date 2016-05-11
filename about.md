@@ -4,9 +4,13 @@ title: About
 permalink: /about/
 ---
 
-I created this blog to serve as a forcing function to keep me up to date on the latest research in economics and computation. The plan is to read recent papers from relevant conferences (e.g., EC, WWW, AAAI, AAMAS, NIPS) and journals and discuss them here, ideally getting feedback authors and other domain experts when needed. My hope is that the process of explaining others' work gives me a better understanding of their research, and that documenting it here will allow me to more quickly recall technical details months down the road.
+In this blog, I summarize and occasionally deep dive into research papers in the field of economics and computation. I focus on recent work, but classic papers are also discussed when they contain important supplementary information. If we're lucky, we'll get feedback from authors and other domain experts to clarify any misunderstandings in my posts, provide additional context, and discuss promising directions for future work. I'll typically look at papers from EC, WWW, WINE, AAAI, AAMAS, NIPS, and other similar workshops, conferences, and journals. 
 
-A second-order goal of this blog is to improve my speed at consuming, digesting, and explaining technical content. I may occasionally have a post about techniques I've found helpful. I will try to force myself to follow the "done is better than perfect" mantra and iterate on posts as needed. This will probably increase the number of errors and misunderstandings in my posts, so if you see an issue, please let me know!
+<!---
+My main motivation for creating this blog is to have a forcing function to keep me up to date on the literature. I hope that the process of explaining others' work gives me a better understanding of their research, and that documenting it here will allow me to more quickly recall technical details months down the road. 
+
+I also hope to improve my speed at consuming, digesting, and explaining technical content. I may occasionally have a post about techniques I've found helpful. I will try to force myself to follow the "done is better than perfect" mantra and iterate on posts as needed. This will probably increase the number of errors and misunderstandings in my posts, so if you see an issue, please let me know!
+--->
 
 ### About me
 
