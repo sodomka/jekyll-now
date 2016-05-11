@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EC 2016 Game Plan
+title: Tentative EC 2016 Game Plan
 author: "Eric Sodomka"
 date: "May 5, 2016"
 output: 
