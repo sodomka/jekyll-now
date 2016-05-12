@@ -30,7 +30,7 @@ papers_per_day <- num_papers / days_available
 
 Back when I was a snot-nosed intern for [Sébastien Lahaie](http://slahaie.net/), I remember a lunchtime group conversation about somebody that had supposedly *read every paper* prior to attending a particular conference. 
 
-I don't remember the name of this person or the conference---perhaps someone who was there can fill in the details in the comments section---and I also don't know if this diligent reader is actually one of many. 
+I don't remember the name of this person or the conference---perhaps someone who was there can fill in the details---and I also don't know if this diligent reader is actually one of many. 
 
 But the idea has stuck with me, perhaps because it's so different from my own, and I think most others', pre-conference routines. At my best, I'll skim a paper or two the night before the conference (but more likely than not, I'll still be scrambling with slides).
 
