@@ -7,12 +7,6 @@ output:
   html_document
 ---
 
-<!---
-(NOTE: If you have stumbled upon this post, you're reading a rough draft that I'm playing around with for setting up this blog. Everything here is subject to change. Continue reading at your own peril.)
---->
-
-
-
 ```{r echo = FALSE}
 ec_start_date <- as.Date('2016-07-24')
 acceptance_date <- as.Date('2016-05-10')
