@@ -29,14 +29,13 @@ papers_per_day <- num_papers / days_available
 ```
 
 Back when I was a snot-nosed intern for [Sébastien Lahaie](http://slahaie.net/), I remember a lunchtime group conversation about somebody that had supposedly *read every paper* prior to attending a particular conference. 
-
 I don't remember the name of this person or the conference---perhaps someone who was there can fill in the details in the comments section---and I also don't know if this diligent reader is actually one of many. But the idea has stuck with me, perhaps because it's so different from my own, and I think most others', pre-conference routines. At my best, I'll skim a paper or two the night before the conference (but more likely than not, I'll still be scrambling with slides).
 
 [NOTE: You've stumbled upon a incomplete draft of a blog post. Continue reading at your own peril, or check in later for a properly published version.]
 
 This time around, I'm going to put on my reality distortion glasses and try to avoid past behavior predicting future behavior. **My wacky idea for EC 2016 is to try to "read" and "summarize" every paper by the start of the conference** on `r ec_start_date`. 
 
-I added quotes to acknowledge that both my readings and summaries will be intolerably shallow on the first pass, given the limited amount of time until the conference and the fact that this is not a substitute for my regular workday. 
+I've added quotes to acknowledge that both my readings and summaries may be intolerably shallow on the first pass, given the limited amount of time until the conference and the fact that this is not a substitute for my regular workday. 
 I also suspect that, for a researcher wishing to advance the state of the art in a particular area, diving deeply into a handful of relevant papers may be more fruitful than the breadth-first approach I'm exploring here.
 
 Regardless, it sounds like a fun thing to try. My hope is that, by the end, I will have a better sense of the bigger picture than I've had previously, and that reading in advance will allow me to better absorb the material in the talks.
