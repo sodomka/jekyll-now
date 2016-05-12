@@ -26,29 +26,17 @@ Back when I was a snot-nosed intern for [Sébastien Lahaie](http://slahaie.net/)
 
 I don't remember the name of this person or the conference---perhaps someone who was there can fill in the details---and I also don't know if this diligent reader is actually one of many. 
 
-<!--- 
-Back when I was a snot-nosed intern for Sebastien Lahaie, I remember a lunchtime group conversation about somebody that had supposedly read every paper prior to attending a particular conference. 
---->
-
 But the idea has stuck with me for years because it's so different from my own pre-conference routine. At best, I'll skim a paper or two the night before the conference, but more likely than not, I'll still be scrambling with slides.
 
 [NOTE: You've stumbled upon a incomplete draft of a blog post. Continue reading at your own peril, or check in later for a properly published version.]
 
-This time around, I'm going to put on my reality distortion glasses and try to avoid past behavior predicting future behavior. **My wacky idea for EC 2016 is to try to "read" and "summarize" every paper by the start of the conference** on `r ec_start_date`. 
+This time around, I'm going to put on my reality distortion glasses and try to avoid past behavior predicting future behavior. **My wacky idea for EC 2016 is to try to "read" and "summarize" every paper by the start of the conference** on `r ec_start_date`.
 
 I've added quotes to acknowledge that both my readings and summaries may be intolerably shallow on the first pass, given the limited amount of time until the conference and the fact that this is not a substitute for my regular workday. 
 
 I also suspect that, for a researcher wishing to advance the state of the art in a particular area, diving deeply into a handful of relevant papers may be more fruitful than the breadth-first approach I'm exploring here.
 
 Regardless, it sounds like a fun thing to try. My hope is that, by the end, I will have a better sense of the bigger picture than I've had previously, and that reading in advance will allow me to better absorb the material in the talks.
-
-## How to Read a Paper?
-
-[S. Keshav](http://blizzard.cs.uwaterloo.ca/keshav/wiki/index.php/Main_Page)'s article on [How to Read a Paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf) (pdf). He also has a good collection of other [research advice](http://blizzard.cs.uwaterloo.ca/keshav/wiki/index.php/Advice).
-
-[Michael Littman](http://cs.brown.edu/~mlittman/) says to start with the figures and try drawing your own conclusions before you see what the authors say about their results.
-
-
 
 
 ## The Game Plan: An Iterative Approach
@@ -58,6 +46,10 @@ minutes_per_shallow_dive <- 30
 minutes_per_medium_dive <- 120
 minutes_per_deep_dive <- 4 * 60
 ```
+
+[S. Keshav](http://blizzard.cs.uwaterloo.ca/keshav/wiki/index.php/Main_Page)'s article on [How to Read a Paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf) (pdf). He also has a good collection of other [research advice](http://blizzard.cs.uwaterloo.ca/keshav/wiki/index.php/Advice).
+
+[Michael Littman](http://cs.brown.edu/~mlittman/) says to start with the figures and try drawing your own conclusions before you see what the authors say about their results.
 
 I'll do each of these steps for each paper:
 
